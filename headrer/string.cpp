@@ -258,4 +258,5 @@ namespace stringFile {
         }
         _data = newWord ;
     }
+
 }
